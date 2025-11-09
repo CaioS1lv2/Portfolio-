@@ -26,4 +26,16 @@ Tenho o objetivo de atuar como desenvolvedor e evoluir para a área de **back-en
 ---
 
 ## 📂 Estrutura do Repositório
+📁 portfolio/
+ ├── 📁 src/              # Códigos-fonte principais
+ 
+ │   ├── 📁 css/          [CodigoCSS](https://github.com/CaioS1lv2/Portfolio-/blob/main/CSS/Portfolio.css)
+ 
+ │   ├── 📁 HTML/         [CodigoHTML](https://github.com/CaioS1lv2/Portfolio-/tree/main/HTML)
+ 
+ ├── 📄 README.md
+ 
+ └── 📄 vercel.json       [Web](portfolio-cas1lv2s-projects.vercel.app)
+
+
 
