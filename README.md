@@ -1,28 +1,36 @@
-# 💼 Portfólio – Caio Silva
+# 👨‍💻 Sobre mim | About Me
 
-Bem-vindo(a) ao meu portfólio! 🚀  
-Aqui estão reunidos meus principais projetos e experiências práticas com desenvolvimento, tecnologia e aprendizado contínuo na área de TI.
+Olá! Meu nome é Caio e sou um profissional em desenvolvimento na área de Tecnologia da Informação, direcionando minha carreira para **Cybersecurity e Cloud Security**.
 
----
+🎯 **Meu objetivo** é desenvolver habilidades em segurança da informação, redes, sistemas Linux e computação em nuvem, com foco na proteção de sistemas, dados e infraestrutura digital.
 
-## 🧠 Sobre mim
+### 🔐 Atualmente estou estudando
 
-Sou apaixonado por tecnologia, programação e aprendizado constante.  
-Atualmente estudo **Python**, **JavaScript**, **banco de dados (MySQL)** e ferramentas de **versionamento com Git e GitHub**.  
-Tenho o objetivo de atuar como desenvolvedor e evoluir para a área de **back-end** e, futuramente, **full stack**.
+- Cybersecurity e fundamentos de segurança da informação
+- Redes de computadores e protocolos de comunicação
+- Linux, Bash e administração de sistemas
+- Segurança em ambientes Cloud
+- Monitoramento de segurança e análise de logs (SIEM)
+- Inglês técnico para a área de tecnologia
 
----
+### 🛠️ Tecnologias e ferramentas
 
-## 🧩 Tecnologias e Ferramentas
+- **Sistemas:** Linux, Windows
+- **Linguagens:** Python, SQL, Bash
+- **Ferramentas:** Git, GitHub, VirtualBox
+- **Banco de dados:** PostgreSQL, MariaDB
+- **Cloud:** estudando os fundamentos de computação em nuvem
 
-- 🐍 **Python**  
-- ⚙️ **JavaScript (Node.js)**  
-- 🗃️ **MySQL / SQL**  
-- 🧰 **Git & GitHub**  
-- 🐧 **Linux / Ubuntu**  
-- 🧱 **HTML5 & CSS3**  
-- 🚀 **Metodologias Ágeis (Kanban, Scrum)**  
+### 🚀 Meus objetivos
 
+- Desenvolver projetos práticos de segurança da informação
+- Construir laboratórios para estudar redes e segurança em Linux
+- Aprofundar meus conhecimentos em segurança na nuvem
+- Preparar-me para certificações profissionais, começando pela CompTIA Security+
+
+Acredito que a evolução na tecnologia acontece com estudo contínuo, prática e disciplina. Estou documentando minha jornada, meus laboratórios e meus projetos para transformar conhecimento teórico em experiência prática.
+
+📌 **Este GitHub é meu espaço para aprender, construir e compartilhar minha evolução em Cybersecurity.**
 ---
 
 ## 📂 Estrutura do Repositório
